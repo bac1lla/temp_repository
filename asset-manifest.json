@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/temp_repository/static/js/main.76a455ed.js",
+    "main.js": "/temp_repository/static/js/main.200312ce.js",
     "index.html": "/temp_repository/index.html",
-    "main.76a455ed.js.map": "/temp_repository/static/js/main.76a455ed.js.map"
+    "main.200312ce.js.map": "/temp_repository/static/js/main.200312ce.js.map"
   },
   "entrypoints": [
-    "static/js/main.76a455ed.js"
+    "static/js/main.200312ce.js"
   ]
 }
